@@ -38,3 +38,6 @@ This is a Python-based application that calculates BMI, BMR, and daily calorie i
 ## Project Status
 
 Personal learning / internship preparation
+
+## Author
+- Dario Zonobian J-Ahmadi
