@@ -16,3 +16,6 @@ This is a Python-based application that calculates BMI, BMR, and daily calorie i
 1. Install dependencies
 2. Configure database
 3. Run main.py
+
+## Requirements
+pip install -r requirements.txt
